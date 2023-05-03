@@ -33,7 +33,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iank1m&show_icons=true&theme=gotham)
 <a href="https://www.instagram.com/kimian_01/" target="_blank"><img src="https://img.shields.io/badge/instagram-black?style=flat-square&logo=>&logoColor=E4405F"/></a>
-
+<a href="https://www.instagram.com/kimian_01/" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=Instagram&logoColor="#E4405F"/></a>
 
 
 
