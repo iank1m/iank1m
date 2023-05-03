@@ -2,17 +2,17 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ian%20Github😄&animation=twinkling&fontSize=50" />
  </div>
   
-### introduction💬
+### 소개💬
 
 	
-##### Hi, this is Ian Kim. studying computer science engineering at HUFS.
+##### 반가워. 한국외국어대학교에서 컴퓨터공학부 전공하고 있는 김이안이라고 해.
 
-##### I will study harder in the future! Please keep an eye on. 
+##### 인스타그램은 친하지 않은 사람이라면 팔로우 걸지 말아줘 ^_^
 
 ##### look at my blog, codes ...
  	
  
-### Languages and tools ⚡
+### Languages and tools ⚡ 사실 할 줄 모르는데 그냥 따라서봄넣어봄
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -25,14 +25,14 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-### wanna contact ?
+### 개인적인 용무는 용무를 관등명성과 함께 간단명료히 아래 주소로 메일할 것
 
 
 	(Mail) [kimian0416@gmail.com]
 
 
 
-### I’m currently working on my best 🌱
+### 있어보이지만 사실 아무것도 없음 🌱
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iank1m&show_icons=true&theme=gotham)
 <a href="https://www.instagram.com/kimian_01/">
