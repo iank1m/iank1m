@@ -9,7 +9,9 @@
 
 ##### 인스타그램은 친하지 않은 사람이라면 팔로우 걸지 말아줘 ^_^
 
-##### look at my blog, codes ...
+<a href="https://www.instagram.com/kimian_01/">
+  <img align="left" alt="IanKim's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
  	
  
 ### Languages and tools ⚡ 사실 할 줄 모르는데 그냥 따라서봄넣어봄
@@ -35,9 +37,6 @@
 ### 있어보이지만 사실 아무것도 없음 🌱
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iank1m&show_icons=true&theme=gotham)
-<a href="https://www.instagram.com/kimian_01/">
-  <img align="left" alt="IanKim's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
 
 <!--
 **iank1m/iank1m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
