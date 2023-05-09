@@ -2,7 +2,7 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ian%20Github😄&animation=twinkling&fontSize=50" />
  </div>
   
-### 소개💬
+### 소개 💬
 
 	
 ##### 반가워. 한국외국어대학교에서 컴퓨터공학부 전공하고 있는 김이안이라고 해 .
@@ -42,7 +42,7 @@
 
 <br>
 <br>
-<br>
+
 ### 깃 블로그 꾸져서 벨로그 쓸 예정임
 
 	(adress) https://velog.io/@iank1m
@@ -50,18 +50,3 @@
 ### 있어보이지만 사실 아무것도 없음 🌱 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iank1m&show_icons=true&theme=gotham)
-
-<!--
-**iank1m/iank1m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
