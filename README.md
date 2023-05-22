@@ -38,7 +38,7 @@
 ### 개인적인 용무는 간단명료히 아래 주소로 메일할 것
 
 
-	(Mail) [kimian0416@gmail.com] or [iank1m@naver.com]
+	(Mail) [kimian0416@gmail.com]
 
 <br>
 <br>
